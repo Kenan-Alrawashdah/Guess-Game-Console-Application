@@ -1,0 +1,7 @@
+C:\Users\Mohammad\source\repos\FinalProjectT\bin\Debug\FinalProjectT.exe.config
+C:\Users\Mohammad\source\repos\FinalProjectT\bin\Debug\FinalProjectT.exe
+C:\Users\Mohammad\source\repos\FinalProjectT\bin\Debug\FinalProjectT.pdb
+C:\Users\Mohammad\source\repos\FinalProjectT\obj\Debug\FinalProjectT.csproj.AssemblyReference.cache
+C:\Users\Mohammad\source\repos\FinalProjectT\obj\Debug\FinalProjectT.csproj.CoreCompileInputs.cache
+C:\Users\Mohammad\source\repos\FinalProjectT\obj\Debug\FinalProjectT.exe
+C:\Users\Mohammad\source\repos\FinalProjectT\obj\Debug\FinalProjectT.pdb
